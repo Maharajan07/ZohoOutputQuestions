@@ -5,6 +5,8 @@ public class Qus2 {
 
         str = str.replace('a', 'z').concat("Script");   //  JzvdefScript
 
-        System.out.println(str);    //  JzvdefScript
+        System.out.println(str);
     }
 }
+
+//  JzvdefScript
