@@ -1,4 +1,4 @@
-public class Main {
+public class Qus1 {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Java"); 
         sb.append(" Programming");  // "Java Programming"
