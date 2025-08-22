@@ -4,11 +4,10 @@ public class Qus4 {
 
         String str2 = str1.substring(3,6);  //  creates New object in Heap("def")
         String str3 = "def";    //  from string pool
-
         System.out.println(str2 == str3);  //   different references 
     }
 }
 
 //  false
 
-// using '.quals()' -> System.out.println(str2.equals(str3)); - true
+// using '.equals()' -> System.out.println(str2.equals(str3)); - true
