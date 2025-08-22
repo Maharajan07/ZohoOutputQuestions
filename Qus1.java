@@ -7,4 +7,4 @@ public class Qus1 {
     } 
 }
 
-//  Javarogramming//
+//  Javarogramming
