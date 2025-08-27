@@ -7,7 +7,7 @@ final class Complex {   // final class means it cannot be extended (no subclassi
       this.im = im;
   }
 
-  public String toString() {   // while printing object (c), this method (toString();) will automatically called
+  public String toString() {   // while printing object (c), method toString() is automatically called
       return "(" + re + " + " + im + "i)";
   }
 }
@@ -21,3 +21,4 @@ class Main {
 
 //  Output:
 //         Complex number is (10.0 + 15.0i)
+//  (10.0 & 15.0 because of double)
